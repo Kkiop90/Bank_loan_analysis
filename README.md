@@ -110,10 +110,10 @@ The dataset was cleaned before analysis by:
 
 ## 📂 Project Files
 
-- Bank_Loan_Analysis_Project.xlsx
+- 
 - README.md
 
----
+--- "Bank_Loan_Analysis_project1.xlsx"
 
 ## 🎯 Skills Demonstrated
 
